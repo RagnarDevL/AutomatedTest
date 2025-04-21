@@ -1,0 +1,6 @@
+com\sqasa\utils\ExcelUtils.class
+com\sqasa\utils\ExcelUtils$1.class
+com\sqasa\utils\MySQLConnection.class
+com\sqasa\steps\FloristeriaUserSteps.class
+com\sqasa\tests\FloristeriaTest.class
+com\sqasa\pages\FloristeriaHomePage.class
